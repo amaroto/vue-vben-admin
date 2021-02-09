@@ -119,8 +119,7 @@
   "homepage": "https://github.com/anncwb/vue-vben-admin",
   "husky": {
     "hooks": {
-      "pre-commit": "ls-lint && lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "pre-commit": "ls-lint && lint-staged"
     }
   },
   "engines": {

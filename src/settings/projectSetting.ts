@@ -45,9 +45,9 @@ const setting: ProjectConfig = {
   locale: {
     show: true,
     // Locale
-    lang: 'zh_CN',
+    lang: 'en',
     // Default locale
-    fallback: 'zh_CN',
+    fallback: 'en',
     // available Locales
     availableLocales: ['zh_CN', 'en'],
   },

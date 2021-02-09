@@ -8,6 +8,6 @@ export default {
   loginSuccessDesc: 'Welcome back',
 
   // placeholder
-  accountPlaceholder: 'Please input Username',
+  accountPlaceholder: 'Please input Email',
   passwordPlaceholder: 'Please input Password',
 };
